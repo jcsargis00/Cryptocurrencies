@@ -33,6 +33,10 @@ Cryptocurrency DataFrame with cryptocurrency names, algorithm, proof type, total
 #
 ![cf](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto7.PNG)
 #
+PCA (Principal Component Algorithm) table with 3 principal components
+#
+![pca](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto8.PNG)
+#
 Elbow Curve
 #
 ![elbow](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto3.PNG)
