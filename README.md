@@ -6,7 +6,7 @@
 * Deliverable 4: Visualizing Cryptocurrencies Results
 #### Overview
 # 
-This analysis created a report and visualization figures of traded cryptocurrenciesto classify similar currencies. The Accountability Accounting requested the information to offer a new investment portfolio including cyptocurrency for its customers.
+This analysis created a report and visualization figures of traded cryptocurrencies to classify similar currencies. Accountability Accounting requested the information to offer a new investment portfolio including cyptocurrency for its customers.
 #
 The data was preprocessed to use an unsupervised Machine Learning model.  The model used clustering to classify cryptocurrencies. 
 #
