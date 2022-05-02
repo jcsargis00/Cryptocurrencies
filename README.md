@@ -29,5 +29,22 @@ The original dataset 1,252 rows was reduced to 1,144 cryptocurrencies when 108 c
 #
 ![orig](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto2.PNG)
 #
+Cryptocurrency DataFrame with cryptocurrency names, algorithm, proof type, total coins mined and total coin supply
+#
+![cf](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto7.PNG)
+#
+Elbow Curve
+#
 ![elbow](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto3.PNG)
 #
+Tradeable Cryptocurrency table
+#
+![hvplot](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto4.PNG)
+#
+New Dataframe with CoinName and Class columns added to clustered_df
+#
+![new](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto5.PNG)
+#
+Scatter plot with x="TotalCoinsMined" and y="TotalCoinSupply"
+#
+![scat](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto6.PNG)
