@@ -20,7 +20,7 @@ The data was preprocessed to use an unsupervised Machine Learning model.  The mo
 #
 Results
 #
-The original dataset 1,252 rows was reduced to 1,144 cryptocurrencies when 108 currencies not currently traded were deleted. An additional 459 Nan entries were deleted, with 532 rows of data remaining.
+The original dataset of 1,252 rows was reduced to 1,144 cryptocurrencies when 108 currencies not currently traded were deleted. An additional 459 Nan entries were deleted, with 532 rows of data remaining.
 ##### Original data
 #
 ![proc](https://github.com/jcsargis00/Cryptocurrencies/blob/main/Resources/crypto1.PNG)
